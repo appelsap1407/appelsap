@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+
+<head>
+  <link rel="stylesheet" href="style.css">
+</head>
+
+<body>
+  <div class="navigatie">
+    <nav>
+       <a href="index.html">Index</a>
+       <a href="pagina2.html">Type auto's</a>
+       <a href="pagina3.html">Beroemde berdrijven</a>
+       <a class="on_page" href="pagina4.html">Brandstoffen</a>
+       <a href="pagina5.html">Bronnen lijst</a>
+       <a href="pagina6.html">Verdelingen</a>
+    </nav>
+  </div class="navigatie">
+
+  <h1>
+    Welke brandstoffen zijn er
+  </h1>
+  <p>Er zijn 3 grote branstoffen, benzine, diesel en elektrisch</p>
+
+  <p>
+    Benzine is een veel gebruikte brandstof, het verbrandt gelijk in een motor, wat het stabiel houdt.
+    Het kan van tevoren met lucht gemixt worden, waardoor het efficient kan verbranden en makkelijk in de cilinder kan komen.
+    Het grootste voordeel van benzine is de hoge kracht en lichtere motor design.
+  </p>
+  <p> <img class="benzine_motor" src="https://www.mvwautotechniek.nl/wp-content/uploads/2019/02/4-Stroke-Engine-1.gif" alt="een gif van een benzine motor" width="150px"></p>
+  
+  <p>
+    Diesel is een ook een veel gebruikte brandstof, het verbrandt niet zo even als benzine, wat zorgt voor trillingen.
+    Door de trillingen moet de motor een steverige design gebruiken om de trillingen minimaal te houden.
+    De reden dat het onstabiel verbrandt is omdat, het niet van tevoren gemixt kan worden met lucht.
+    De diesel wordt er gewoon in gespoten, waardoor het onregelmatig verbrandt.
+    Het voordeel van diesel auto's is dat ze efficiënter zijn omdat het eerst lucht compresseerd zo kan de zuiger een
+    langere weg af leggen, waardoor het erg efficient verbrandt.
+  </p>
+   <p> <img class="diesel_motor" src="https://c.tenor.com/9Gvf9FdRqUYAAAAd/marine-diesel-engine-engine.gif" alt="een gif van een diesel motor" width="300px"></p>
+ 
+  <p>
+    Elektrische motoren zijn erg efficient, nog efficiënter dan diesel motoren.
+    Elektrische motoren werken door veel (koperen) draden te wikkelen en daar stroming door heen te laten lopen.
+    Buiten de draden heb je ook (permanente) magneten nodig.
+    Door de sroming goed te timen met de magneten kun je het laten bewegen.
+    Er zijn erg veel soorten motoren, de bekendste types zijn brushed en brushless.
+    Brushed motoren zijn makkelijker te maken, maar brushless motoren zijn efficiënter dan brushed.
+  </p>
+  <p> <img class="elektrische_motor" src="https://thumbs.gfycat.com/IdleCluelessDanishswedishfarmdog-max-1mb.gif" alt="een gif van een elektrische motor" width="300px"></p>
+  
+</body>
