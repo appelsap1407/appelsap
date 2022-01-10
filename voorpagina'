@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+
+<head>
+  <link rel="stylesheet" href="style.css">
+</head>
+
+<body>
+  <div class="navigatie">
+    <nav>
+       <a class="on_page" href="index.html">Index</a>
+       <a href="pagina2.html">Type auto's</a>
+       <a href="pagina3.html">Beroemde berdrijven</a>
+       <a href="pagina4.html">Brandstoffen</a>
+       <a href="pagina5.html">Bronnen lijst</a>
+       <a href="pagina6.html">Verdelingen</a>
+     </nav>
+  </div class="navigatie">
+
+  <h1>
+    In onze website zal je vinden
+  </h1>
+
+  <p>
+    Welke soorten auto's er zijn, beroemde automerken, welke brandstoffen er zijn en waar we alle bronnen vandaan haalden.
+  </p>
+
+  <p>
+  <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.topgear.com%2Fcar-reviews%2Frimac%2Fnevera&psig=AOvVaw1xDvaGtPhFRSjankYqNdb3&ust=1641929349256000&source=images&cd=vfe&ved=0CAgQjRxqFwoTCPjeodr1p_UCFQAAAAAdAAAAABAJ">
+  </p>
+  
+</body>
