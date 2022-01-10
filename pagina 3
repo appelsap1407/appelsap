@@ -1,0 +1,65 @@
+<!DOCTYPE html>
+
+<head>
+  <link rel="stylesheet" href="style.css">
+</head>
+
+<body>
+  <div class="navigatie">
+    <nav>
+       <a href="index.html">Index</a>
+       <a href="pagina2.html">Type auto's</a>
+       <a class="on_page" href="pagina3.html">Beroemde berdrijven</a>
+       <a href="pagina4.html">Brandstoffen</a>
+       <a href="pagina5.html">Bronnen lijst</a>
+       <a href="pagina6.html">Verdelingen</a>
+    </nav>
+  </div class="navigatie">
+
+<h1>
+  Hier vertelen we over beroemde automerken en wat hun doel is
+</h1>
+
+<ol class="bol">
+  <li> Toyota </li>
+    <ol class="num">
+      <li>Het beschermen van het milieu</li>
+      <li>Alles zo efficient mogelijk maken</li>
+    </ol class="num">
+  <li> BMW </li>
+    <ol class="num">
+      <li>Duurzaamere prductie van CO2</li>
+      <li>Efficiëntie van de auto's</li>
+    </ol class="num">
+  <li>Ford</li>
+    <ol class="num">
+      <li>Het maken van betrouwbare auto's</li>
+      <li>Het maken van zuinige auto's</li>
+      <li>Het maken van goedkopen auto's</li>
+    </ol class="num">
+  <li>Honda</li>
+    <ol class="num">
+      <li>Respect voor de medewerkers</li>
+      <li>Zekerheid bij het kopen van een auto</li>
+      <li>Een schone fabriek behouden</li>
+    </ol class="num">
+  <li>Nissan</li>
+    <ol class="num">
+      <li>Bij de tijd dat 2050 aanrolt, CO2 neutraal te zijn</li>
+      <li>Alle auto's vanaf 2030 electrisch te maken</li>
+    </ol class="num">
+  <li>Audi</li>
+    <ol class="num">
+      <li>Alle nieuwe audi's vanaf 2026 volledig elektrisch</li>
+      <li>Stop productie van verbrandingsmotoren in 2033</li>
+      <li>50% hogere verkoop in 2030</li>
+    </ol class="num">
+  <li>Tesla</li>
+    <ol class="num">
+      <li>Zelfrijdende taxi's op de weg hebben</li>
+      <li>Meer oplaadpalen hebben voor elektrische voertuigen</li>
+    </ol class="num">
+</ol class="bol">
+
+
+</body>
