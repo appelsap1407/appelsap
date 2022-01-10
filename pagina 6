@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+
+<head>
+  <link rel="stylesheet" href="style.css">
+</head>
+
+<body>
+  <div class="navigatie">
+    <nav>
+       <a href="index.html">Home</a>
+       <a href="pagina2.html">Type auto's</a>
+       <a href="pagina3.html">Beroemde berdrijven</a>
+       <a href="pagina4.html">Brandstoffen</a>
+       <a href="pagina5.html">Bronnen lijst</a>
+       <a class="on_page" href="pagina6.html">Verdelingen</a>
+    </nav>
+  </div class="navigatie">
+
+  <h1>Taakverdelig</h1>
+  
+  <table>
+    <tr>
+      <th>Taken</th>
+      <th>Merlijn</th>
+      <th>Douwe</th>
+    </tr>
+    <tr> <!-- 2e rij-->
+      <td>Index</td> <!--informatie die je in de 2e rij stopt-->
+      <td>X</td>
+      <td>X</td>
+    </tr>
+    <tr> <!--3e rij-->
+      <td></td>
+      <td></td>
+      <td></td>
+    </tr>
+    <tr>
+      <td></td>
+      <td></td>
+      <td></td>
+    </tr>
+    <tr>
+      <td></td>
+      <td></td>
+      <td></td>
+    </tr>
+
+  </table>
+</body>
